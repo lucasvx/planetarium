@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Tamma+2:wght@400;700&display=swap');
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.welcome-section {
+    background-image: url("images/jan-kopriva-l8Qsr3kU53Q-unsplash.png");
+    width: 1440px;
+    height: 1080px;
+
+}
+
+.topdiv{
+    margin: 0 140px 0 140px;
+    padding-top: 28px;
+    width: 1160;
+    height: 103;
+    border: 1px solid orange;
+    display: flex;
+    align-items: center;
+    gap:133px;
+    color: white;
+    list-style-type: none;
+}
+
+
+.push-left{
+    margin-left: auto;
+}
+
+
+.see {
+    margin: 216px 0 0 140px;
+    width: 286px;
+    height: 386px;
+    color: white;
+    text-align: left;
+    letter-spacing: 0px;
+    opacity: 1;
+    font: normal normal bold 70px/84px 'Baloo Tamma 2';
+    border: 1px solid orange;
+}
